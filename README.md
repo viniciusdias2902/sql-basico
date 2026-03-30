@@ -2,6 +2,10 @@
 
 **10 questões básicas de SQL — do SELECT ao HAVING.**
 
+<p align="center">
+  <img src="capa.png" alt="capa" />
+</p>
+
 Banco de dados temático com vagas de emprego — incluindo a icônica vaga de **Leitor de Tarot Júnior** — e candidaturas de divas pop (+ o Eminem, que ninguém sabe como foi parar ali).
 
 > Conteúdo do vídeo no YouTube: *(link do vídeo aqui)*
